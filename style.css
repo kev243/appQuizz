@@ -82,6 +82,7 @@ form button{
 
 form button:hover{
     background:#fafafa;
+    color: #0e0e0e;
 }
 
 .results{
